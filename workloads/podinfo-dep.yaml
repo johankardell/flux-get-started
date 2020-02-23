@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
         - name: PODINFO_UI_MESSAGE
-          value: "Hello from johankardell"
+          value: "Autouppdaterad!"
         livenessProbe:
           httpGet:
             path: /healthz
